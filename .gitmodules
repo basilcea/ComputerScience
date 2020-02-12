@@ -1,0 +1,24 @@
+[submodule "David/Intro-Python-I"]
+	path = David/Intro-Python-I
+	url = https://github.com/DavidKuseh/Intro-Python-I.git
+[submodule "Megan/Intro-Python-I"]
+	path = Megan/Intro-Python-I
+	url = https://github.com/Megan0145/Intro-Python-I
+[submodule "Megan/TK-exercises-1-1"]
+	path = Megan/TK-exercises-1-1
+	url = https://github.com/Megan0145/TK-exercises-1-1
+[submodule "Matt/Intro-Python-I"]
+	path = Matt/Intro-Python-I
+	url = https://github.com/Lockers/Intro-Python-I
+[submodule "James/intro-to-python"]
+	path = James/Intro-to-python
+	url = https://github.com/jrgrantham/intro-to-python
+[submodule "Nurudeen/Intro-Python-I"]
+	path = Nurudeen/Intro-Python-I
+	url = https://github.com/theallegrarr/Intro-Python-I
+[submodule "Temitope/Intro-Python-I"]
+	path = Temitope/Intro-Python-I
+	url = https://github.com/temitopeakinsoto/Intro-Python-I
+[submodule "Victor/Intro-Python-I"]
+	path = Victor/Intro-Python-I
+	url = https://github.com/VictorArowo/Intro-Python-I

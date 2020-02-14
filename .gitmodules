@@ -22,3 +22,45 @@
 [submodule "Victor/Intro-Python-I"]
 	path = Victor/Intro-Python-I
 	url = https://github.com/VictorArowo/Intro-Python-I
+[submodule "David/Intro-Python-II"]
+	path = David/Intro-Python-II
+	url = https://github.com/DavidKuseh/Intro-Python-II
+[submodule "Megan/Intro-Python-II"]
+	path = Megan/Intro-Python-II
+	url = https://github.com/Megan0145/Intro-Python-II
+[submodule "Victor/Intro-Python-II"]
+	path = Victor/Intro-Python-II
+	url = https://github.com/VictorArowo/Intro-Python-II
+[submodule "Nurudeen/Intro-Python-II"]
+	path = Nurudeen/Intro-Python-II
+	url = https://github.com/theallegrarr/Intro-Python-II
+[submodule "Matt/Intro-Python-II"]
+	path = Matt/Intro-Python-II
+	url = https://github.com/Lockers/Intro-Python-II
+[submodule "Temitope/Intro-Python-II"]
+	path = Temitope/Intro-Python-II
+	url = https://github.com/temitopeakinsoto/Intro-Python-II
+[submodule "James/Intro-Python-II"]
+	path = James/Intro-Python-II
+	url = https://github.com/jrgrantham/Intro-Python-II
+[submodule "Victor/tk-assessment-solutions"]
+	path = Victor/tk-assessment-solutions
+	url = https://github.com/VictorArowo/tk-assessment-solutions
+[submodule "Temitope/Sprint-Challenge--Intro-Python"]
+	path = Temitope/Sprint-Challenge--Intro-Python
+	url = https://github.com/temitopeakinsoto/Sprint-Challenge--Intro-Python/
+[submodule "James/Sprint-Challenge--Intro-Python"]
+	path = James/Sprint-Challenge--Intro-Python
+	url = https://github.com/jrgrantham/Sprint-Challenge--Intro-Python
+[submodule "Victor/Sprint-Challenge--Intro-Python"]
+	path = Victor/Sprint-Challenge--Intro-Python
+	url = https://github.com/victorArowo/Sprint-Challenge--Intro-Python
+[submodule "Nurudeen/Sprint-Challenge--Intro-Python"]
+	path = Nurudeen/Sprint-Challenge--Intro-Python
+	url = https://github.com/theallegrarr/Sprint-Challenge--Intro-Python/
+[submodule "Megan/Sprint-Challenge--Intro-Python"]
+	path = Megan/Sprint-Challenge--Intro-Python
+	url = https://github.com/Megan0145/Sprint-Challenge--Intro-Python/
+[submodule "Matt/Sprint-Challenge--Intro-Python"]
+	path = Matt/Sprint-Challenge--Intro-Python
+	url = https://github.com/Lockers/Sprint-Challenge--Intro-Python/

@@ -64,3 +64,57 @@
 [submodule "Matt/Sprint-Challenge--Intro-Python"]
 	path = Matt/Sprint-Challenge--Intro-Python
 	url = https://github.com/Lockers/Sprint-Challenge--Intro-Python/
+[submodule "David/Sprint-Challenge--Intro-Python"]
+	path = David/Sprint-Challenge--Intro-Python
+	url = https://github.com/DavidKuseh/Sprint-Challenge--Intro-Python
+[submodule "David/Sorting"]
+	path = David/Sorting
+	url = https://github.com/DavidKuseh/Sorting
+[submodule "James/Sorting"]
+	path = James/Sorting
+	url = https://github.com/jrgrantham/Sorting.git
+[submodule "Matt/Sorting"]
+	path = Matt/Sorting
+	url = https://github.com/lockers/Sorting.git
+[submodule "Megan/Sorting"]
+	path = Megan/Sorting
+	url = https://github.com/Megan0145/Sorting.git
+[submodule "Nurudeen/Sorting"]
+	path = Nurudeen/Sorting
+	url = https://github.com/theallegrarr/Sorting.git
+[submodule "Temitope/Sorting"]
+	path = Temitope/Sorting
+	url = https://github.com/temitopeakinsoto/Sorting.git
+[submodule "Victor/Sorting"]
+	path = Victor/Sorting
+	url = https://github.com/VictorArowo/Sorting.git
+[submodule "Victor/sorting-algorithms"]
+	path = Victor/sorting-algorithms
+	url = https://github.com/VictorArowo/sorting-algorithms.git
+[submodule "victor/Algorithms"]
+	path = victor/Algorithms
+	url = https://github.com/VictorArowo/Algorithms
+[submodule "David/Algorithms"]
+	path = David/Algorithms
+	url = https://github.com/DavidKuseh/Algorithms
+[submodule "Megan/Algorithms"]
+	path = Megan/Algorithms
+	url = https://github.com/Megan0145/Algorithms
+[submodule "Temitope/Algorithms"]
+	path = Temitope/Algorithms
+	url = https://github.com/temitopeakinsoto/Algorithms
+[submodule "Nurudeen/Algorithms"]
+	path = Nurudeen/Algorithms
+	url = https://github.com/theallegrarr/Algorithms
+[submodule "James/Algorithms"]
+	path = James/Algorithms
+	url = https://github.com/jrgrantham/Algorithms
+[submodule "James/Sprint-Challenge--Algorithms"]
+	path = James/Sprint-Challenge--Algorithms
+	url = https://github.com/jrgrantham/Sprint-Challenge--Algorithms
+[submodule "Megan/Sprint-Challenge--Algorithms"]
+	path = Megan/Sprint-Challenge--Algorithms
+	url = https://github.com/megan0145/Sprint-Challenge--Algorithms
+[submodule "Victor/Sprint-Challenge--Algorithms"]
+	path = Victor/Sprint-Challenge--Algorithms
+	url = https://github.com/victorArowo/Sprint-Challenge--Algorithms

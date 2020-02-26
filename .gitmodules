@@ -118,3 +118,24 @@
 [submodule "Victor/Sprint-Challenge--Algorithms"]
 	path = Victor/Sprint-Challenge--Algorithms
 	url = https://github.com/victorArowo/Sprint-Challenge--Algorithms
+[submodule "James/Data-Structures"]
+	path = James/Data-Structures
+	url = https://github.com/jrgrantham/Data-Structures
+[submodule "David/Data-Structures"]
+	path = David/Data-Structures
+	url = https://github.com/davidkuseh/Data-Structures
+[submodule "Megan/Data-Structures"]
+	path = Megan/Data-Structures
+	url = https://github.com/megan0145/Data-Structures
+[submodule "Nurudeen/Data-Structures"]
+	path = Nurudeen/Data-Structures
+	url = https://github.com/theallegrarr/Data-Structures
+[submodule "Temitope/Data-Structures"]
+	path = Temitope/Data-Structures
+	url = https://github.com/temitopeakinsoto/Data-Structures
+[submodule "Victor/Data-Structures"]
+	path = Victor/Data-Structures
+	url = https://github.com/victorarowo/Data-Structures
+[submodule "Matt/Sprint-Challenge--Algorithms"]
+	path = Matt/Sprint-Challenge--Algorithms
+	url = https://github.com/Lockers/Sprint-Challenge--Algorithms/
